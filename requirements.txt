@@ -1,0 +1,26 @@
+# Core data processing libraries
+duckdb>=0.8.0
+pandas>=1.5.0
+numpy>=1.21.0
+
+# AWS and S3 integration
+boto3>=1.26.0
+s3fs>=2023.1.0
+
+# High-performance parquet processing
+pyarrow>=10.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+jupyterlab>=3.5.0
+notebook>=6.5.0
+
+# Optional: For enhanced data visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Optional: For additional data processing
+scipy>=1.9.0
+
+# Optional: For progress bars and better UX
+tqdm>=4.64.0
